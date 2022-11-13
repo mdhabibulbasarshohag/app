@@ -1,0 +1,33 @@
+.item {
+  /* height: 470px; */
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 5px 4px 6px grey;
+  background-color: rgb(172, 216, 216);
+  padding: 10px;
+  color: black;
+}
+
+.item img {
+  width: 220px;
+  height: 150px;
+  margin-left: 10px;
+}
+
+.item p {
+  margin-left: -4px;
+}
+
+.item button {
+  width: 100%;
+  background-color: rgb(172, 216, 216);
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.item button:hover {
+  background-color: rgb(114, 234, 255);
+}
